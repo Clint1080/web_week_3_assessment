@@ -1,0 +1,9 @@
+How the web works. 
+The Web is what you see on when you are using a phone or your computer or something. 
+The Internet is the network of all the computers that the web works on. 
+
+This is how I think of it.  The Internet is like the roads. The Web contains everything you can you see, like houses, malls, grocery stores.  Cars and trucks are like the data moving on the Internet.  
+
+When you click on a link you are going to the address that is contained in the link as a URL. So like you are going to someone house or to a grocery store.
+
+When you click you use DNS to get the IP address of where you're trying to go. When you have all of this a request is sent to that server(house, grocery store) for information.  Then you get the information back and you browser turns all that information into a website.  
