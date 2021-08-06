@@ -70,8 +70,8 @@ img.profilePic {
 .clintsPage h2, label {
 	font-size: 20px;
 }
-form input, form label{
-	display: inline;
+.clintsPage form input, .clintsPage form label, input[type=radio]{
+	display: inline-block;
 }
 .btn {
 	padding: 10px;
